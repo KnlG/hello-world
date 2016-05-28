@@ -7,6 +7,9 @@
 int main()
 {
 	 printf( "Hello World!\n");
+
+	 printf("Another line\n");
+
     return 0;
 }
 
